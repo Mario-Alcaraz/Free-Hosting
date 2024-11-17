@@ -20,3 +20,59 @@ Cuenta con un almacenamiento ilimitado y con 100 GB de ancho de banda, permite d
 | Freehostia | 250 MB | 6 GB| Dominios  | Si  | No |  |[FreeHostia](https://www.freehostia.com/)
 | Netlify | 300 MB | 100 GB| Dominios  | Si  |  No |GitHub | [Netlify](netlify.com)
 | Vercel  |  Ilimitado| 100 GB| Dominios  | Si | No | GitHub |[Vercel](vercel.com)
+
+## InfinityFree
+### Usuarios
+En InfinityFree puedes crear usuarios, esto lo puedes hacer seleccionando la opción de accounts y seleccionar create account.
+
+![text alternatiu](Polish_20241117_163203387.jpg).
+
+Como no queremos gastar dinero le daremos a la opción gratuita, la de la izquierda del todo.
+
+![text alternatiu](IMG_20241117_161806.jpg).
+
+Después de esto crearemos un dominio.
+
+![text alternatiu](IMG_20241117_161845.jpg).
+
+Y finalmente, pondremos información adicional, como la contraseña
+
+![text alternatiu](IMG_20241117_161900.jpg).
+
+### Certificados SSL
+Para esto tendremos que ir a donde ponga **SSL Certificates** y le daremos a crear.
+
+![text alternatiu](IMG_20241117_161946.jpg).
+
+Después pondremos un nombre de subdominio y también en en opciones avanzadas, podemos poner un provedor de SSL.
+
+![text alternatiu](IMG_20241117_162039.jpg).
+
+### Página web
+
+Para crear una página wevb tenemos que ir al apartado que pone **Site builders**.
+
+![text alternatiu](IMG_20241117_162220.jpg).
+
+Tenemos que ir abajo donde nos sale la opción de **go to site.pro**
+
+![text alternatiu](IMG_20241117_162341.jpg).
+
+Después de esto iniciamos sesión en la página, dándole clic a la opción de **crear página web**
+
+![text alternatiu](IMG_20241117_162711.jpg).
+
+Después de esto le daremos a edit website, eligiremos la plantilla que queramos, editamos la plantilla, y cuando quieras le das a publish
+
+![text alternatiu](IMG_20241117_162743.jpg).
+
+![text alternatiu](IMG_20241117_163042.jpg).
+
+### Comprobar dominios 
+Para comprobar dominios tendremos que dar a la opción de **domain checker**
+
+Y después pondremos el nombre de dominio que queramos comrpobar y nos saldrá su estado
+
+![text alternatiu](IMG_20241117_162516.jpg).
+
+![text alternatiu](IMG_20241117_162546.jpg).
