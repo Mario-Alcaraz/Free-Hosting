@@ -15,8 +15,8 @@ Cuenta con un almacenamiento de 1 GB y con 50 GB de ancho de banda, solo permite
 # Tabla
 | Provedor | Almacenamiento |Ancho de banda| Dominios y subdominios | Certificado SSL |Publicidad|Otras caracteristicas| Enlace| 
 | -------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------
-| InfinityFree  | Content Cell  | Content Cell| Content Cell  | Content Cell  |  Content Cell | Content Cell | Content Cell
-| FreeHosting  | Content Cell  | Content Cell| Content Cell  | Content Cell  |  Content Cell | Content Cell | Content Cell
-| AwardSpace  | Content Cell  | Content Cell| Content Cell  | Content Cell  |  Content Cell | Content Cell | Content Cell
-| FreeHostia | Content Cell  | Content Cell| Content Cell  | Content Cell  |  Content Cell | Content Cell | Content Cell
-| ByetHost  | Content Cell  | Content Cell| Content Cell  | Content Cell  |  Content Cell | Content Cell | Content Cell
+| InfinityFree  | Ilimitado| Ilimitado| Subdominios  | Si  | No |PHP y MySQL |[ InfinityFree](https://infinityfree.net/)
+| FreeHosting  | 10 GB| Ilimitado| Subdominios  | No  |  Si|  | [FreeHosting](https://www.freehosting.com/)
+| AwardSpace  | 1 GB | 5 GB| Dominios  | Si  | No |  |[AwardSpace](https://www.awardspace.com/)
+| FreeHostia | 250 MB | 6 GB| Dominios  | Si  |  No | | [FreeHostia](https://www.freehostia.com/)
+| ByetHost  |  1 GB | 50 GB| Subdominios  | Si | No |  |[ByetHost](https://byet.host/)
