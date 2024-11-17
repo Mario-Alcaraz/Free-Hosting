@@ -76,3 +76,14 @@ Y después pondremos el nombre de dominio que queramos comrpobar y nos saldrá s
 ![text alternatiu](IMG_20241117_162516.jpg).
 
 ![text alternatiu](IMG_20241117_162546.jpg).
+
+## GoogieHost
+### Servicios
+El primer apartado que nos sale en GoogieHost, en este tenemos podemos ver nuestros servicios y ordenar nuestros servicios, emn el cual podremos comprar (gratis) los servicios que tengamos (los dominios).
+
+
+
+### Dominios
+Dentro de el apartado **Domains** tenemos unas cuantas opciones para clicar, las cuales son:**my domains** para ver tus dominios **renew domains** para renovar dominios, **Register a new domain** para encontrar tus dominios y comprobar su disponibilidad y **transfer domains to us** para transferir dominios a la página web poniendo su nombre y su código de autorización
+
+
