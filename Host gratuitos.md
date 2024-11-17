@@ -1,4 +1,4 @@
-# Mejores hostings gratuitos
+# Hostings gratuitos
 
 En este Markdown enseñaré algunos servidores de hosting gratuitos.
 
