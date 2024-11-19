@@ -86,4 +86,49 @@ El primer apartado que nos sale en GoogieHost, en este tenemos podemos ver nuest
 ### Dominios
 Dentro de el apartado **Domains** tenemos unas cuantas opciones para clicar, las cuales son:**my domains** para ver tus dominios **renew domains** para renovar dominios, **Register a new domain** para encontrar tus dominios y comprobar su disponibilidad y **transfer domains to us** para transferir dominios a la página web poniendo su nombre y su código de autorización
 
+## FreeHostia
+### Dominios
+Puedes crear dominios en el apartado de **domains** y dándole al apartado **hosted domains**, después de esto le das a **create a subdomain** y podremos crear tanto un subdominio como un dominio de host.
+
+
+
+
+
+
+
+Aparte de esto, puedes registrar y transferir dominios, esto lo haremos dándole otra vez al apartado de **domains**, pero ahora le daremos a la opción de **registered domains**, después de esto, le daremos a el botón que pone **REGISTER/TRANSFER DOMAIN**, al entrar pondremos el dominio que queramos.
+
+### Mails
+Podemos crear mails desde esta página, tendremos que darle al botón de **Email** y luego a **Mailboxes**, después, le daremos al botón de la derecha:**Create a new mail account**, después de esto ponemos los datos que queramos.
+
+### Archivos y carpetas
+Puedes crear tanto archivos como carpetas, para esto le daremos a donde ponga **Files** y luego a la opción de **File manager**, para crear o subir un archivo le daremos a la opción de **Upload new file** y para crear o subir una carpeta le daremos a la opcion de **Upload new folder**, cuando le demos a cualquiera de las opciones, se podrá crear un archivo/carpeta (depende de lo que hayas escogido) con el texto de arriba o subir un archivo de tu ordenador con la opción **add** (se verá de la misma manera tanto en la opción de carpeta como de archivo).
+
+### Bases de datos 
+Puedes añadir bases de datos de MySQL en esta página, para eso le daremos a la opción de **Databases** y luego a la opción de **MySQL Databases**, después le daremos a la opción de **add MySQL**, finalmente ponemos los datos que queramos.
+
+
+### Aplicaciones 
+Puedes instalar aplicaciones, para eso, le daremos a la opción de **Installer** y luego a **Aplications installer**, ya dentro, le daremos al botón que dice **Install new aplication**, después de eso, seleccionamos la que queramos instalar, y rellenaremos los datos que nos pidan.
+
+
+
+
+##  Netlify
+### Repositorios
+Podemos subir los repositorios de GitHub, o crearlos con una plantilla, para esto, le daremos al botón **Sites** y escogeremos la opción la queramos, por ejemplo, yo escogeré, la de la izquierda, escogemos el programa donde tengamos el repositorio, sincronizamos nuestra cuenta de Netlify con la de GitHub, ponemos el repositorio que queramos y rellenaremos los datos que nos pide rellenar.
+
+
+
+### Extensiones
+Podemos instalar extensiones, le tendremos que dar a la opción de **Extensions** y escogemos la que queramos, finalmente la instalamos.
+
+
+
+### Dominios
+Podemos crear nuestros dominios dándole a la opción de **Domains** y darle a **Add or register a domain**, le pondremos un nombre, después aunque es opcional, podemos ponerle un registro de DNS, después, le daremos a **Done** y ya lo tendriamos.
+
+
+
+
 
