@@ -17,7 +17,7 @@ Cuenta con un almacenamiento ilimitado y con 100 GB de ancho de banda, permite d
 | -------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------
 | InfinityFree  | 5 GB| Ilimitado| Subdominios  | Si  | No |PHP y MySQL |[ InfinityFree](https://infinityfree.net/)
 | GoogieHost| 1 GB| 100 GB| Dominios  | Si  |  No| MySQL | [GoogieHost](googiehost.com)
-| Freehostia | 250 MB | 6 GB| Dominios  | Si  | No |  |[FreeHostia](https://www.freehostia.com/)
+| Freehostia | 250 MB | 6 GB| Dominios  | Si  | No | MySQL |[FreeHostia](https://www.freehostia.com/)
 | Netlify | 300 MB | 100 GB| Dominios  | Si  |  No |GitHub | [Netlify](netlify.com)
 | Vercel  |  Ilimitado| 100 GB| Dominios  | Si | No | GitHub |[Vercel](vercel.com)
 
