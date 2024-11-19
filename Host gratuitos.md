@@ -79,7 +79,15 @@ Y después pondremos el nombre de dominio que queramos comrpobar y nos saldrá s
 
 ## GoogieHost
 ### Servicios
-El primer apartado que nos sale en GoogieHost, en este tenemos podemos ver nuestros servicios y ordenar nuestros servicios, emn el cual podremos comprar (gratis) los servicios que tengamos (los dominios).
+El primer apartado que nos sale en GoogieHost (sin contar Home), en este tenemos podemos ver nuestros servicios y ordenar nuestros servicios, en el cual podremos comprar (gratis) los servicios que tengamos (los dominios).
+
+![text alternatiu](IMG_20241119_202835.jpg).
+
+![text alternatiu](IMG_20241119_202838.jpg).
+
+![text alternatiu](IMG_20241119_202835.jpg).
+
+
 
 
 
