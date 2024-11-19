@@ -153,17 +153,36 @@ Puedes instalar aplicaciones, para eso, le daremos a la opción de **Installer**
 Podemos subir los repositorios de GitHub, o crearlos con una plantilla, para esto, le daremos al botón **Sites** y escogeremos la opción la queramos, por ejemplo, yo escogeré, la de la izquierda, escogemos el programa donde tengamos el repositorio, sincronizamos nuestra cuenta de Netlify con la de GitHub, ponemos el repositorio que queramos y rellenaremos los datos que nos pide rellenar.
 
 
+![text alternatiu](IMG_20241119_160621.jpg)
+
+![text alternatiu](IIMG_20241119_160952.jpg)
+
+![text alternatiu](IMG_20241119_160702.jpg)
+
+![text alternatiu](IMG_20241119_160759.jpg)
+
+![text alternatiu](IMG_20241119_160805.jpg)
+
+![text alternatiu](IMG_20241119_160905.jpg)
 
 ### Extensiones
 Podemos instalar extensiones, le tendremos que dar a la opción de **Extensions** y escogemos la que queramos, finalmente la instalamos.
 
+![text alternatiu](IMG_20241119_161021.jpg)
 
+![text alternatiu](IMG_20241119_161045.jpg)
 
 ### Dominios
 Podemos crear nuestros dominios dándole a la opción de **Domains** y darle a **Add or register a domain**, le pondremos un nombre, después aunque es opcional, podemos ponerle un registro de DNS, después, le daremos a **Done** y ya lo tendriamos.
 
 
+![text alternatiu](IMG_20241119_162151.jpg)
 
+![text alternatiu](IMG_20241119_162204.jpg)
+
+![text alternatiu](IMG_20241119_162219.jpg)
+
+![text alternatiu](IMG_20241119_162722.jpg)
 
 ## Vercel
 ### Subir repositorios de GitHub
