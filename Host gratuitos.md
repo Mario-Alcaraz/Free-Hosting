@@ -131,4 +131,12 @@ Podemos crear nuestros dominios dándole a la opción de **Domains** y darle a *
 
 
 
+## Vercel
+### Subir repositorios de GitHub
+Para subir repositorios de GitHub o GitLab tenemos que estar en el apartado y darle al apartado **Import project**, después de esto, selecionaremos una de las opciones disponibles y sincronizar tu cuenta de GitHub, GitLsab o BitBucket, depende de la que hayas escogido, después de eso, subirás el repositorio que quieras, y le daras a import, finalmente rellena los datos que se te pidan.
 
+### Integraciones
+Para instalarlas tenemos que ir al apartado **Integrations** y darle al botón **Browse integration**, después, escogeremos la integración que queramos, después de eso escogeremos una de las opciones disponibles, la que queramos, después de esto, rellena los datos que se te pidan y ya tendremos una integración.
+
+### Dominios
+Para los dominios, tendremos que darle al apartado **Domains** y darle a la opción **Add existing domain**, después de eso seleccionaremos una de las carpetas que nos salen por poner los repositorios de GitHub, después de eso le pondremos un nombre, cuando esté creada, nos saldrá la opción de **edit** y rellenamos la información como queramos.
