@@ -155,7 +155,7 @@ Podemos subir los repositorios de GitHub, o crearlos con una plantilla, para est
 
 ![text alternatiu](IMG_20241119_160621.jpg)
 
-![text alternatiu](IIMG_20241119_160952.jpg)
+![text alternatiu](IMG_20241119_160952.jpg)
 
 ![text alternatiu](IMG_20241119_160702.jpg)
 
